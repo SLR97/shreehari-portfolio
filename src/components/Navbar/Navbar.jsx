@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { HiMenuAlt4, HiX } from 'react-icons/hi';
-import { BiSolidCloudDownload } from 'react-icons/Bi'
+import { BiSolidCloudDownload } from 'react-icons/bi'
 import { motion } from 'framer-motion';
 
 import './Navbar.scss';
