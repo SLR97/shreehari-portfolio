@@ -29,7 +29,7 @@ function Header() {
             <span>👋</span>
             <div style={{marginLeft: 20}}>
               <p className='p-text'>Hi there, I'm</p>
-              <h1 className='head-text'>Srihari_Shivom</h1>
+              <h1 className='head-text'>Srihari</h1>
             </div>
           </div>
 
