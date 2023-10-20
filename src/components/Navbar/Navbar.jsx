@@ -13,7 +13,7 @@ function Navbar() {
   return (
     <nav className='app__navbar'>
       <div className='app__navbar-logo'>
-        <video src={images.logovid} alt="logo" href='#home' width='50' height='50'/> {/* width="90px" */}
+        <img src={images.shree_logo} alt="logo" href='#home' width="90px" /> {/* width="90px" */}
       </div>
       <ul className='app__navbar-links'>
         {['home','about', 'skills', 'work', 'contact'].map((item) => (

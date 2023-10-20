@@ -25,6 +25,7 @@ import jenkins from '../assets/jenkins.png';
 import cloud from'../assets/cloud.png';
 
 import logovid from '../assets/logovid.mp4';
+import shree_logo from '../assets/shree_logo.png';
 
 export default {
   css,
@@ -54,4 +55,5 @@ export default {
 
   cloud,
   logovid,
+  shree_logo,
 };
